@@ -64,6 +64,7 @@ You can access the API documentation for the **Peworld** project, also authored 
 ### Related Project
 
 - [`Front-End Project Repository Link`](https://github.com/echestratus/peworld-project)
+- [`Front-End Project Demo Link`](https://peworlds-project.netlify.app/)
 
 ## Contact
 
