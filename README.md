@@ -65,8 +65,6 @@ You can access the API documentation for the **Peworld** project, also authored 
 
 - [`Front-End Project Repository Link`](https://github.com/echestratus/peworld-project)
 
-- [`Back-End Demonstration Link`](https://fwm17-be-peword.vercel.app/)
-
 ## Contact
 
 If you have any questions or inquiries regarding this project, feel free to contact me at ryusuf05@gmail.com or [muhammadrisano](https://github.com/muhammadrisano) for back-end issues.
