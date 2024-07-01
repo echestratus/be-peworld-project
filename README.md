@@ -67,7 +67,10 @@ You can access the API documentation for the **Peworld** project, also authored 
 
 ## Contact
 
-If you have any questions or inquiries regarding this project, feel free to contact me at ryusuf05@gmail.com or [muhammadrisano](https://github.com/muhammadrisano) for back-end issues.
+Feel free to contact me or [muhammadrisano](https://github.com/muhammadrisano) if there is any question you want to ask regarding this back-end project or if you just want to get in touch.
+
+- Email: farhanz.nh.13@gmail.com
+- LinkedIn: https://www.linkedin.com/in/farhan-nur-hakim/
 
 ## Contribution
 ### How to Contribute
